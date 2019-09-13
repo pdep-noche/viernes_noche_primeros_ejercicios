@@ -1,4 +1,4 @@
-Tom y Jerry
+#Tom y Jerry
 
 
 Crear en Wollok a los objetos y métodos necesarios para resolver lo siguiente:
